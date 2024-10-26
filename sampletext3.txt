@@ -1,6 +1,6 @@
 
 Lorem Ipsum. This is just a sample text file.
-<a class="text-green-300 underline" href=https://youtube.com/>Youtube</a>
+<a class="text-green-300 underline" target="_blank" href=https://youtube.com/>Youtube</a>
 
 
 
