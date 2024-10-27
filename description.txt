@@ -1,6 +1,6 @@
-Using C# and Visual Studio 2022 I created a classic Snake game following a tutorial from <a class="text-blue-500 underline" target="_blank" href=https://www.youtube.com/watch?v=Meib94_co0U/>Erb Computer Science</a> on YouTube.
+	Using C# and Visual Studio 2022 I created a classic Snake game following a tutorial from <a class="text-blue-500 underline" target="_blank" href=https://www.youtube.com/watch?v=Meib94_co0U/>Erb Computer Science</a> on YouTube.
 
-In Snake, you navigate the playing field, consuming fruit that appears. Each piece of fruit you eat makes your snake longer and increases your speed. Be careful—running into a wall or your own tail will end the game! The snake moves forward automatically, and you can change its direction using the arrow keys.
+	In Snake, you navigate the playing field, consuming fruit that appears. Each piece of fruit you eat makes your snake longer and increases your speed. Be careful, running into a wall or your own tail will end the game! The snake moves forward automatically, and you can change its direction using the arrow keys.
 
 Changes I made to the tutorial:
  - Refactored the code to follow the DRY principal
