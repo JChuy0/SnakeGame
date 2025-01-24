@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\projects\\SnakeGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10D141F9-A110-466A-AFF0-6FAE53E38E57}|SnakeGame.csproj|C:\\projects\\SnakeGame\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10D141F9-A110-466A-AFF0-6FAE53E38E57}|SnakeGame.csproj|solutionrelative:snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10D141F9-A110-466A-AFF0-6FAE53E38E57}|SnakeGame.csproj|c:\\projects\\snakegame\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10D141F9-A110-466A-AFF0-6FAE53E38E57}|SnakeGame.csproj|solutionrelative:snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D141F9-A110-466A-AFF0-6FAE53E38E57}|SnakeGame.csproj|C:\\projects\\SnakeGame\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10D141F9-A110-466A-AFF0-6FAE53E38E57}|SnakeGame.csproj|solutionrelative:snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SnakeGame.cs",
               "DocumentMoniker": "C:\\projects\\SnakeGame\\SnakeGame.cs",
               "RelativeDocumentMoniker": "SnakeGame.cs",
               "ToolTip": "C:\\projects\\SnakeGame\\SnakeGame.cs",
               "RelativeToolTip": "SnakeGame.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAAAAAA",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAywMUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T01:34:31.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SnakeGame.cs [Design]",
               "DocumentMoniker": "C:\\projects\\SnakeGame\\SnakeGame.cs",
               "RelativeDocumentMoniker": "SnakeGame.cs",
               "ToolTip": "C:\\projects\\SnakeGame\\SnakeGame.cs [Design]",
               "RelativeToolTip": "SnakeGame.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:06:41.667Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-22T01:06:41.667Z"
             }
           ]
         }
